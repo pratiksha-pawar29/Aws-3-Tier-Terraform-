@@ -345,3 +345,7 @@ This project was created as a hands-on learning and portfolio project to strengt
 **AWS Cloud + Terraform + Infrastructure as Code + DevOps**
 
 The infrastructure was provisioned, tested, and successfully destroyed using Terraform.
+
+Author 
+
+Pratiksha Pawar 
