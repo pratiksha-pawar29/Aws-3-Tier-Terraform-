@@ -16,7 +16,7 @@ The project covers the complete Infrastructure-as-Code lifecycle:
 
 ## 🏗️ Architecture
 
-![AWS 3-Tier Architecture](architecture-diagram.png)
+![AWS 3-Tier Architecture](architecture-diagram.jpg)
 
 The architecture is deployed in **AWS US East (Ohio) — `us-east-2`** across two Availability Zones.
 
